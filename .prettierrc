@@ -1,0 +1,23 @@
+{
+  "printWidth": 120,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "trailingComma": "es5",
+  "bracketSpacing": false,
+  "jsxBracketSameLine": true,
+  "arrowParens": "always",
+  "endOfLine": "auto",
+  "embeddedLanguageFormatting": "auto",
+  "overrides": [
+    {
+      "files": "*.wxml",
+      "options": {
+        "tabWidth": 4,
+        "printWidth": 120
+      }
+    }
+  ]
+}
