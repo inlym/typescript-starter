@@ -4,6 +4,7 @@ diff
 build
 node_modules
 test
+dist
 src/**.js
 coverage
 *.log

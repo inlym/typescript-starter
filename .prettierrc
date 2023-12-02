@@ -10,14 +10,5 @@
   "jsxBracketSameLine": true,
   "arrowParens": "always",
   "endOfLine": "auto",
-  "embeddedLanguageFormatting": "auto",
-  "overrides": [
-    {
-      "files": "*.wxml",
-      "options": {
-        "tabWidth": 4,
-        "printWidth": 120
-      }
-    }
-  ]
+  "embeddedLanguageFormatting": "auto"
 }
